@@ -1,4 +1,4 @@
-# TeamSpeak 6 Global Viewer for MyBB
+# TeamSpeak 6 Viewer for MyBB
 
 A high-performance, secure, and highly customizable TeamSpeak 6 integration for MyBB 1.8.x. This plugin utilizes the TeamSpeak WebQuery to capture server statistics, channel hierarchies, and user status.
 
